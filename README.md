@@ -2,11 +2,10 @@
 
 <pre style="
   text-align:center;
-  background:#0d1117;
-  color:#e6edf3;
-  padding:16px;
-  border-radius:12px;
-  box-shadow:0 0 20px rgba(88,166,255,.35);
+  color:#58a6ff;
+  text-shadow:
+    0 0 5px #58a6ff,
+    0 0 10px #58a6ff;
 ">
   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣤⣶⣶⣶⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣴⣾⣶⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
